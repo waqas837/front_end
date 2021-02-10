@@ -1,0 +1,23 @@
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+
+  font-style: italic;
+}
+.nav {
+  background: rgb(20, 181, 245);
+  padding: 20px;
+}
+.link1 {
+  padding: 20px;
+
+  text-decoration: none;
+  font-size: 30px;
+  color: antiquewhite;
+  border: 2px solid snow;
+}
+.link2 {
+  margin-left: 15px;
+  text-decoration: none;
+  color: antiquewhite;
+}
